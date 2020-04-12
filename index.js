@@ -3,4 +3,5 @@
   const append = ["Milo", "Otis", "Garfield"]
   append.push("Odie");
 
-  let prepend = pets.unshift("Odie");
+  const prepend = ["Milo", "Otis", "Garfield"]
+  prepend.unshift("Odie");
