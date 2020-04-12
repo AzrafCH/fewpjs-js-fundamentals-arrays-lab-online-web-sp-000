@@ -1,6 +1,5 @@
 // Write your solution here!
-  const arrayfunctions = ["Milo", "Otis", "Garfield"];
 
-  append = array_functions.push("Odie");
+  const append = array_functions.push("Odie");
 
-  prepend = array_functions.unshift("Odie");
+  const prepend = array_functions.unshift("Odie");
