@@ -1,5 +1,5 @@
 // Write your solution here!
- array functions = ["Milo", "Otis", "Garfield"];
+  const arrayfunctions = ["Milo", "Otis", "Garfield"];
 
   append = array_functions.push("Odie");
 
